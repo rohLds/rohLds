@@ -20,5 +20,5 @@ I am currently a member of an incredible community called @he4rtdevs, which has 
 - **Name:** Rômulo Silva
 - **Age:** 22
 - **Living in:** Rio de Janeiro, Brazil
-- **Stack:** JAVASCRIPT - NodeJS - ReactJS - Bootstrap - SQL - AWS
+- **Stack:** Elixir - JavaScript - Node.js - Bootstrap - SQL - AWS
 - **University:** UVA - Universidade Veiga de Almeida
