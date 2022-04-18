@@ -2,6 +2,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/romulohe4rt?color=%234fffff&label=%40romulohe4rt&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/romulohe4rt)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulolss)
 [![Instagram Badge](https://img.shields.io/badge/instagram--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/romulohe4rt)
+[![Dev Badge](https://img.shields.io/badge/dev--%2300EBEB?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/romulolss)
 
 ## Hello there
 
