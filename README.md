@@ -1,11 +1,11 @@
 <div>
-    <a target='_blank' href="https://twitter.com/romulohe4rt">
-        <img src="https://img.shields.io/twitter/follow/romulohe4rt?color=%234fffff&label=%40romulohe4rt&logo=twitter&logoColor=white&style=for-the-badge">
+    <a target='_blank' href="https://twitter.com/romulolds">
+        <img src="https://img.shields.io/twitter/follow/romulolds?color=%234fffff&label=%40romulolds&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
     <a target='_blank' href="https://twitter.com/devroh_">
         <img src="https://img.shields.io/twitter/follow/devroh_?color=%234fffff&label=%40devroh_&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
-    <a target='_blank' href="https://instagram.com/romulohe4rt">
+    <a target='_blank' href="https://instagram.com/rohlds">
         <img src="https://img.shields.io/badge/instagram--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a target='_blank' href="https://linkedin.com/in/romulolss">
