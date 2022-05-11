@@ -8,10 +8,10 @@
     <a target='_blank' href="https://instagram.com/rohlds">
         <img src="https://img.shields.io/badge/instagram--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/romulolss">
+    <a target='_blank' href="https://linkedin.com/in/rohlds">
         <img src="https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://dev.to/romulolss">
+    <a target='_blank' href="https://dev.to/rohlds">
         <img src="https://img.shields.io/badge/dev--%2300EBEB?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
 </div>
