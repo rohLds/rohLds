@@ -1,17 +1,17 @@
 <div>
-    <a target='_blank' href="https://twitter.com/roolacanna">
-        <img src="https://img.shields.io/twitter/follow/roolacanna?color=%234fffff&label=%roolacanna&logo=twitter&logoColor=white&style=for-the-badge">
+    <a target='_blank' href="https://twitter.com/rohlacanna">
+        <img src="https://img.shields.io/twitter/follow/rohlacanna?color=%234fffff&label=%rohlacanna&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
     <a target='_blank' href="https://twitter.com/devroh_">
         <img src="https://img.shields.io/twitter/follow/devroh_?color=%234fffff&label=%40devroh_&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
-    <a target='_blank' href="https://instagram.com/roolacanna">
+    <a target='_blank' href="https://instagram.com/rohlacanna">
         <img src="https://img.shields.io/badge/instagram--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/roolacanna">
+    <a target='_blank' href="https://linkedin.com/in/rohlacanna">
         <img src="https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://dev.to/roolacanna">
+    <a target='_blank' href="https://dev.to/rohlacanna">
         <img src="https://img.shields.io/badge/dev--%2300EBEB?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
 </div>
