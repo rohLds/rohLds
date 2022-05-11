@@ -1,6 +1,6 @@
 <div>
     <a target='_blank' href="https://twitter.com/rohlacanna">
-        <img src="https://img.shields.io/twitter/follow/devroh_?color=%234fffff&label=%40devroh_&logo=twitter&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/twitter/follow/rohlacanna?color=%234fffff&label=%40rohlacanna&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
     <a target='_blank' href="https://twitter.com/devroh_">
         <img src="https://img.shields.io/twitter/follow/devroh_?color=%234fffff&label=%40devroh_&logo=twitter&logoColor=white&style=for-the-badge">
