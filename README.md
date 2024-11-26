@@ -31,7 +31,7 @@ I am currently a member of an incredible community called @he4rtdevs, which has 
 ## Detailed information
 
 - **Name:** Rômulo Silva
-- **Age:** 23
+- **Age:** 26
 - **Living in:** Rio de Janeiro, Brazil
 - **Stack:** Elixir - JavaScript - Node.js - TypeScript
 - **University:** UVA - Universidade Veiga de Almeida
